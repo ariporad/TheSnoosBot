@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ariporad/TheSnoosBot/issues"
   },
-  "homepage": "https://github.com/ariporad/TheSnoosBot"
+  "homepage": "https://github.com/ariporad/TheSnoosBot",
+  "dependencies": {
+    "snoocore": "^2.7.1"
+  }
 }
