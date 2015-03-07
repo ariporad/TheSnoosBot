@@ -1,0 +1,26 @@
+{
+  "name": "TheSnoosBot",
+  "version": "1.0.0",
+  "description": "A reddit bot for /r/TheSnoos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariporad/TheSnoosBot.git"
+  },
+  "keywords": [
+    "TheSnoos",
+    "reddit",
+    "bot",
+    "reddit",
+    "bot"
+  ],
+  "author": "Ari Porad <ariporad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariporad/TheSnoosBot/issues"
+  },
+  "homepage": "https://github.com/ariporad/TheSnoosBot"
+}
